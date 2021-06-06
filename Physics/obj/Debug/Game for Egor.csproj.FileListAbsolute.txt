@@ -1,0 +1,14 @@
+C:\Users\krasn\OneDrive\Рабочий стол\MiniGame2048-C-sharp-master\Physics\bin\Debug\Physics.exe.config
+C:\Users\krasn\OneDrive\Рабочий стол\MiniGame2048-C-sharp-master\Physics\bin\Debug\Physics.exe
+C:\Users\krasn\OneDrive\Рабочий стол\MiniGame2048-C-sharp-master\Physics\bin\Debug\Physics.pdb
+C:\Users\krasn\OneDrive\Рабочий стол\MiniGame2048-C-sharp-master\Physics\bin\Debug\Tao.FreeGlut.xml
+C:\Users\krasn\OneDrive\Рабочий стол\MiniGame2048-C-sharp-master\Physics\bin\Debug\Tao.OpenGl.xml
+C:\Users\krasn\OneDrive\Рабочий стол\MiniGame2048-C-sharp-master\Physics\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\krasn\OneDrive\Рабочий стол\MiniGame2048-C-sharp-master\Physics\obj\Debug\Game for Egor.csproj.AssemblyReference.cache
+C:\Users\krasn\OneDrive\Рабочий стол\MiniGame2048-C-sharp-master\Physics\obj\Debug\Physics.Form1.resources
+C:\Users\krasn\OneDrive\Рабочий стол\MiniGame2048-C-sharp-master\Physics\obj\Debug\Physics.Properties.Resources.resources
+C:\Users\krasn\OneDrive\Рабочий стол\MiniGame2048-C-sharp-master\Physics\obj\Debug\Game for Egor.csproj.GenerateResource.cache
+C:\Users\krasn\OneDrive\Рабочий стол\MiniGame2048-C-sharp-master\Physics\obj\Debug\Game for Egor.csproj.CoreCompileInputs.cache
+C:\Users\krasn\OneDrive\Рабочий стол\MiniGame2048-C-sharp-master\Physics\obj\Debug\Game for Egor.csproj.CopyComplete
+C:\Users\krasn\OneDrive\Рабочий стол\MiniGame2048-C-sharp-master\Physics\obj\Debug\Physics.exe
+C:\Users\krasn\OneDrive\Рабочий стол\MiniGame2048-C-sharp-master\Physics\obj\Debug\Physics.pdb
